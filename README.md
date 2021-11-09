@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @techmonaco
+- 👀 I’m an python programmer & an algo trader
